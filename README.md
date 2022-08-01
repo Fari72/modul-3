@@ -42,7 +42,7 @@ cara melihat hasilnya silahkan mengaktifkan xampp dan cmd server contohnya seper
 
 ![image](https://user-images.githubusercontent.com/109929687/182095439-ca7fa233-ba2c-4648-a7e8-f846da6c4a47.png)
 
-setelah mengaktifkan server silahkan menuju ke browser/ chrome salin link dibawah ini. Lalu tempelkan
+setelah mengaktifkan server silahkan menuju ke browser/ chrome salin link dibawah ini. Lalu tempelkan ke browser/ chrome
 ```
 http://localhost:8000/kategori
 ```
