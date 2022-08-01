@@ -4,7 +4,8 @@
 ## modul-3
 ### Routing
 
->Tugas soal nomor 1 Buatlah Route yang menuju kehalaman Kategori dan
+>Tugas soal nomor 1 Buatlah Route yang menuju ke halaman Kategori
+
 >Tugas soal nomor 2 Buatlah halaman tambah data disetiap route
 
 pertama-tama membuat *"class KategoriController"* di VSCode ke terminal cara cepat *"Ctrl+Shift+`"* lalu salin command dibawah ini
@@ -13,7 +14,7 @@ pertama-tama membuat *"class KategoriController"* di VSCode ke terminal cara cep
 php artisan make:controller KategoriController
 ```
 
-dibawah ini codenya
+dibawah ini tugas 1&2 codenya
 ```
 <?php
 
