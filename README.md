@@ -38,9 +38,9 @@ class KategoriController extends Controller
 ```
 cara melihat hasilnya silahkan mengaktifkan xampp dan cmd server contohnya seperti digambar bawah ini;
 
-![image](https://user-images.githubusercontent.com/109929687/182095743-8aa2f45b-32ec-4faa-858e-963ee0767f61.png)
+>![image](https://user-images.githubusercontent.com/109929687/182095743-8aa2f45b-32ec-4faa-858e-963ee0767f61.png)
 
-![image](https://user-images.githubusercontent.com/109929687/182095439-ca7fa233-ba2c-4648-a7e8-f846da6c4a47.png)
+>![image](https://user-images.githubusercontent.com/109929687/182095439-ca7fa233-ba2c-4648-a7e8-f846da6c4a47.png)
 
 setelah mengaktifkan server silahkan menuju ke browser/ chrome salin link dibawah ini. Lalu tempelkan ke browser/ chrome
 ```
@@ -48,8 +48,8 @@ http://localhost:8000/kategori
 ```
 hasilnya akan terlihat seperti ini
 
-![image](https://user-images.githubusercontent.com/109929687/182098433-f06fafe1-0b9d-4524-8fa5-f50140e38458.png)
+>![image](https://user-images.githubusercontent.com/109929687/182098433-f06fafe1-0b9d-4524-8fa5-f50140e38458.png)
 
 jika di klik link tersebut maka akan menuju ke halaman kategori add seperti dibawah ini
 
-![image](https://user-images.githubusercontent.com/109929687/182098997-7308cfb1-79f6-40f8-a502-d5c490e16389.png)
+>![image](https://user-images.githubusercontent.com/109929687/182098997-7308cfb1-79f6-40f8-a502-d5c490e16389.png)
