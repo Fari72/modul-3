@@ -37,6 +37,27 @@ class KategoriController extends Controller
 }
 
 ```
+dan cara memanggil-nya ke dalam halaman dengan url tersebut hasil codenya seperti dibawah ini
+```
+<?php
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BarangController;
+use App\Http\Controllers\KategoriController;
+
+// Route::get('/home', function (){
+//     echo "<a href='".route('create')."'>Akses Route dengan nama</a>";
+//     });
+
+// Route::get('/create', function(){
+//     echo "Route diakses menggunakan nama";
+// })->nama('create');
+
+Route::get('/barang', [BarangController::class, 'index']);
+Route::get('/kategori', [KategoriController::class, 'index']);
+Route::get('/barang/add', [BarangController::class, 'add']);
+Route::get('/kategori/add', [KategoriController::class, 'add']);
+```
+
 cara melihat hasilnya silahkan mengaktifkan xampp dan cmd server contohnya seperti digambar bawah ini;
 
 >![image](https://user-images.githubusercontent.com/109929687/182095743-8aa2f45b-32ec-4faa-858e-963ee0767f61.png)
