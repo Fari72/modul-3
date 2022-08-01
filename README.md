@@ -1,11 +1,11 @@
 ###### Nama: Fari' Affrizal S.
-###### Kelas: RPL
+###### Kelas: RPL 1
 ###### No.Absen: 25
 ## modul-3
 ### Routing
-Tugas soal nomor 1 Buatlah Route yang menuju kehalaman Kategori
-dibawah ini adalah codenya
-Tugas soal nomor 2 Buatlah halaman tambah data disetiap route
+>Tugas soal nomor 1 Buatlah Route yang menuju kehalaman Kategori dan
+>Tugas soal nomor 2 Buatlah halaman tambah data disetiap route
+dibawah ini codenya
 ```
 <?php
 
@@ -28,3 +28,4 @@ class KategoriController extends Controller
 }
 
 ```
+cara melihat hasilnya silahkan mengaktifkan xampp dan cmd server contohnya seperti digambar ini;
