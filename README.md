@@ -42,5 +42,6 @@ hasilnya akan terlihat seperti ini
 
 ![image](https://user-images.githubusercontent.com/109929687/182098433-f06fafe1-0b9d-4524-8fa5-f50140e38458.png)
 
-jika diklik link tersebut maka akan menuju ke halaman kategori add seperti dibawah ini
+jika di klik link tersebut maka akan menuju ke halaman kategori add seperti dibawah ini
 
+![image](https://user-images.githubusercontent.com/109929687/182098997-7308cfb1-79f6-40f8-a502-d5c490e16389.png)
