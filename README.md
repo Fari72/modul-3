@@ -5,6 +5,7 @@
 ### Routing
 >Tugas soal nomor 1 Buatlah Route yang menuju kehalaman Kategori dan
 >Tugas soal nomor 2 Buatlah halaman tambah data disetiap route
+
 dibawah ini codenya
 ```
 <?php
@@ -30,4 +31,12 @@ class KategoriController extends Controller
 ```
 cara melihat hasilnya silahkan mengaktifkan xampp dan cmd server contohnya seperti digambar ini;
 ![image](https://user-images.githubusercontent.com/109929687/182095743-8aa2f45b-32ec-4faa-858e-963ee0767f61.png)
+
 ![image](https://user-images.githubusercontent.com/109929687/182095439-ca7fa233-ba2c-4648-a7e8-f846da6c4a47.png)
+
+setelah mengaktifkan server silahkan menuju ke browser/ chrome salin link dibawah ini. Lalu tempelkan
+```
+http://localhost:8000/kategori
+```
+
+hasilnya akan terlihat seperti ini
