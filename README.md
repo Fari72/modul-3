@@ -38,5 +38,9 @@ setelah mengaktifkan server silahkan menuju ke browser/ chrome salin link dibawa
 ```
 http://localhost:8000/kategori
 ```
-
 hasilnya akan terlihat seperti ini
+
+![image](https://user-images.githubusercontent.com/109929687/182098433-f06fafe1-0b9d-4524-8fa5-f50140e38458.png)
+
+jika diklik link tersebut maka akan menuju ke halaman kategori add seperti dibawah ini
+
